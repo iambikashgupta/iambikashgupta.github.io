@@ -1,7 +1,3 @@
-# iambikashgupta.github.io
-
-Welcome to my page! Thank you for visiting! 
-
 <!-- Your header -->
 <p align="center">
   <img src="bikash.JPG" height="100" alt="Bikash Gupta" />
