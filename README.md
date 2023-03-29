@@ -1,6 +1,6 @@
 <!-- Your header -->
 <p align="center">
-  <img src="bikash.JPG" height="100" alt="Bikash Gupta" />
+  <img src="bikash.JPG" height="300" alt="Bikash Gupta" />
 </p>
 <h1 align="center">
   Hi there, I'm <Bikash Gupta>
@@ -14,10 +14,15 @@
 <!-- Your intro -->
 <p align="center">
   <samp>
-    I'm a <Your job title> working at <Your company> and passionate about <Your interests>.
+    I'm a second year's Master's student at Carnegie Mellon University and passionate about using data science for social good.
     <br />
     <br />
     Here are some technologies I've been working with recently:
+    * Python
+    * PySpark
+    * R
+    * R-shiny
+    * Tableau
   </samp>
 </p>
 
