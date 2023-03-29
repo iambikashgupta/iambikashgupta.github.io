@@ -3,7 +3,7 @@
   <img src="bikash.JPG" height="300" alt="Bikash Gupta" />
 </p>
 <h1 align="center">
-  Hi there, I'm <Bikash Gupta>
+  Hi there, I'm Bikash Gupta
 </h1>
 <p align="center">
   <a href="https://iambikashgupta.github.io/">Website</a> |
@@ -33,7 +33,8 @@
 
 <!-- Your projects -->
 <h2 align="center">
-  :rocket: My Latest Projects
+  :rocket: 
+  My Latest Projects
 </h2>
 <p align="center">
   <a href="project-link">
