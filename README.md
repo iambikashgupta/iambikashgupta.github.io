@@ -33,8 +33,7 @@
 
 <!-- Your projects -->
 <h2 align="center">
-  :rocket: 
-  My Latest Projects
+  🚀 My Latest Projects
 </h2>
 <p align="center">
   <a href="project-link">
@@ -52,7 +51,7 @@
 
 <!-- Your toggles -->
 <h2 align="center">
-  :gear: Preferences
+  ⚙️ Preferences
 </h2>
 <p align="center">
   <img src="https://img.shields.io/badge/editor-vscode-blueviolet?style=for-the-badge&logo=visual-studio-code" alt="VS Code">
@@ -76,6 +75,6 @@
 <!-- Your footer -->
 <p align="center">
   <samp>
-    Made with :heart: using <a href="https://github.com">GitHub</a>.
+    Made with ❤️ using <a href="https://github.com">GitHub</a>.
   </samp>
 </p>
