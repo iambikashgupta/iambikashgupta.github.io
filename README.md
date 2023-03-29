@@ -66,7 +66,7 @@
 
 <!-- Your contact -->
 <h2 align="center">
-  :mailbox: Get in touch
+  :mailbox: 📫 Get in touch
 </h2>
 <p align="center">
   <a href="mailto:your-email-address">Email</a> |
